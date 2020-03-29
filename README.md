@@ -21,7 +21,7 @@ Microsoft Excel is necessary. Just download PokerMC.xlsm and start using it.
 1. Check you Win-Tie-Loss probability distribution
 
 ## Simulating on Monte Carlo, how many simulations is enough?
-Monte-Carlo-based solutions usually rely on a large number of simulations to generate realiable information. Since this project is on Excel VBA, a relatively slow programming language. Given this, a convergence test was made to determine the lowest possible number of simulations that give trustable results.
+Monte-Carlo-based solutions usually rely on a large number of simulations to generate realiable information. This project is made on Excel and uses VBA, a relatively slow programming language. To improve efficiency, a convergence test was made to determine the lowest possible number of simulations that give trustable results.
 
 ![](images/_Convergence.PNG)
 
