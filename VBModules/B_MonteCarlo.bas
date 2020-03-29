@@ -1,4 +1,18 @@
 Attribute VB_Name = "B_MonteCarlo"
+
+Sub texasMonteCarloNsims()
+    
+    'Will be called by buttons 1K, 2K, 5K, 10K
+    'Buttons are named "MC1000" "MC2000" "MC5000" or "MC10000"
+    'This script will get the value from the button name (removing the "MC"), convert to long, place on the number of simulations cell and run the main montecarlo
+    
+    btnName = Application.Caller
+    nSims = CLng(Right(btnName, Len(btnName) - 2))
+    ThisWorkbook.Sheets("Table").Range("NumberOfSimulations").Value = nSims
+    Call texasMonteCarlo
+   
+End Sub
+
 Sub texasMonteCarlo(Optional showMsg As Boolean = False)
     ' -------------------------------------------------------------------------------------------------------------------------------------------------------------
     ' 0 - Speed up
