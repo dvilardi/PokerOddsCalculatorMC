@@ -1,7 +1,7 @@
 # PokerMonteCarlo
 Simple Monte-Carlo based hand evaluation tool for Texas Hold'em Poker on Excel. Comes with pre-loaded starting hand win probability for tables from 2 to 9 players. Other hand-board card combinations are calculated on the go.
 
-![](images/_MainScreen.PNG)
+![](images/_MainScreen2.PNG)
 
 ## Prerequisites and installation
 Microsoft Excel is necessary. Just download PokerMC.xlsm and start using it.
