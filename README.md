@@ -18,7 +18,8 @@ Microsoft Excel is necessary. Just download Poker Odds Calculator MC.xlsm and st
 1. Select the board cards (optional)
 1. Select the number of Monte-Carlo simulations to run
 1. Run simulations
-1. Check you Win-Tie-Loss probability distribution
+1. Check you Win-Tie-Loss probability distribution and compare it against the table's fair share (1/nPlayers)
+1. Bet according to your odds-based strategy
 
 ## Simulating on Monte Carlo, how many simulations is enough?
 Monte-Carlo-based solutions usually rely on a large number of simulations to generate realiable information. This project is made on Excel and uses VBA, a relatively slow programming language. To improve efficiency, a convergence test was made to determine the lowest possible number of simulations that give trustable results.
