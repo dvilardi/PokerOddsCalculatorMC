@@ -4,7 +4,7 @@ Simple Monte-Carlo based hand evaluation tool for Texas Hold'em Poker on Excel. 
 ![](images/_MainScreen2.PNG)
 
 ## Prerequisites and installation
-Microsoft Excel is necessary. Just download PokerMC.xlsm and start using it.
+Microsoft Excel is necessary. Just download Poker Odds Calculator MC.xlsm and start using it.
 
 ## Main features
 * Pre-calculated, Monte-Carlo based, win probability  for all starting hand combinations
