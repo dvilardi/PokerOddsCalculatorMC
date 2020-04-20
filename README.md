@@ -33,6 +33,7 @@ I'm Danilo Vilardi, a Brazilian mechanical engineer with 10+ different hobbies a
 I'm social on:
 * [Linkedin](https://www.linkedin.com/in/danilo-vilardi/)
 * [Instagram](https://www.instagram.com/dvilardi/)
+* [Facebook](https://www.facebook.com/dvilardi26)
 
 ## Acknowledgments
 Most of the poker logics (hand evaluation and scoring) was based on this java-based project by Dr Shun Yan Cheung from Emory College of Arts and Sciences: http://www.mathcs.emory.edu/~cheung/Courses/170/Syllabus/10/pokerCheck.html
