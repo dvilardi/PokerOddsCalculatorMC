@@ -29,7 +29,7 @@ Monte-Carlo-based solutions usually rely on a large number of simulations to gen
 It is safe to assume that, for 1500 simulations or higher, you will be within 2 percentual points of fluctuation, which is fairly sufficient for Poker estimates. Anything above 10000 is overkill.
 
 ## About me
-I'm Danilo Vilardi, a Brazilian mechanical engineer with 10+ different hobbies and no time to pursue them all: programmer, photographer, electronic and woodwork dyi adventurer, musician and ocasional CS gaming.
+I'm Danilo Vilardi, a Brazilian mechanical engineer with 10+ different hobbies and no time to pursue them all: programmer, photographer, electronic and woodwork dyi adventurer, musician and occasional CS gaming.
 I'm social on:
 * [Linkedin](https://www.linkedin.com/in/danilo-vilardi/)
 * [Instagram](https://www.instagram.com/dvilardi/)
